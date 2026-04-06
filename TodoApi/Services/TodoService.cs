@@ -15,6 +15,10 @@ public class TodoService {
 
     public void AddTask(Todo task) {
         task.Id = _taskId++;
+        task.Title = task.Title.Trim();
+        if (string.IsNullOrEmpty(task.Title)) {
+            throw new ArgumentException("Title is required");
+        }
         _todos.Add(task);
     }
 
