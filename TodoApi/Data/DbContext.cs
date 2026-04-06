@@ -7,6 +7,8 @@ public class TodoDbContext : DbContext {
     public DbSet<Todo> Todos { get; set; }
 
     public int test() {}
+
+    // 1 hai ba 4 5 7
 }
 
 // Chao Phat Nguyen
