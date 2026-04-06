@@ -19,7 +19,6 @@ public class TodoService {
         if (string.IsNullOrEmpty(task.Title)) {
             throw new ArgumentException("Title is required");
         }
-        // abcxyz
         _todos.Add(task);
     }
 
