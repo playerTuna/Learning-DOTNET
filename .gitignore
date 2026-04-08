@@ -1,3 +1,2 @@
-**/TodoApi/Todo*.*
 env/*
 !env/env.example
