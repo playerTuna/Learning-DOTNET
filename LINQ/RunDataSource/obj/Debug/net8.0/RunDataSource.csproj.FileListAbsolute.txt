@@ -1,0 +1,15 @@
+F:\HCMUT\Dotnet\LINQ\RunDataSource\obj\Debug\net8.0\RunDataSource.GeneratedMSBuildEditorConfig.editorconfig
+F:\HCMUT\Dotnet\LINQ\RunDataSource\obj\Debug\net8.0\RunDataSource.AssemblyInfoInputs.cache
+F:\HCMUT\Dotnet\LINQ\RunDataSource\obj\Debug\net8.0\RunDataSource.AssemblyInfo.cs
+F:\HCMUT\Dotnet\LINQ\RunDataSource\obj\Debug\net8.0\RunDataSource.csproj.CoreCompileInputs.cache
+F:\HCMUT\Dotnet\LINQ\RunDataSource\obj\Debug\net8.0\RunDataSource.sourcelink.json
+F:\HCMUT\Dotnet\LINQ\RunDataSource\bin\Debug\net8.0\RunDataSource.exe
+F:\HCMUT\Dotnet\LINQ\RunDataSource\bin\Debug\net8.0\RunDataSource.deps.json
+F:\HCMUT\Dotnet\LINQ\RunDataSource\bin\Debug\net8.0\RunDataSource.runtimeconfig.json
+F:\HCMUT\Dotnet\LINQ\RunDataSource\bin\Debug\net8.0\RunDataSource.dll
+F:\HCMUT\Dotnet\LINQ\RunDataSource\bin\Debug\net8.0\RunDataSource.pdb
+F:\HCMUT\Dotnet\LINQ\RunDataSource\obj\Debug\net8.0\RunDataSource.dll
+F:\HCMUT\Dotnet\LINQ\RunDataSource\obj\Debug\net8.0\refint\RunDataSource.dll
+F:\HCMUT\Dotnet\LINQ\RunDataSource\obj\Debug\net8.0\RunDataSource.pdb
+F:\HCMUT\Dotnet\LINQ\RunDataSource\obj\Debug\net8.0\RunDataSource.genruntimeconfig.cache
+F:\HCMUT\Dotnet\LINQ\RunDataSource\obj\Debug\net8.0\ref\RunDataSource.dll
