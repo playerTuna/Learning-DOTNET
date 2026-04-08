@@ -5,9 +5,5 @@ using TodoApi.Models;
 public class TodoDbContext : DbContext {
     public TodoDbContext(DbContextOptions<TodoDbContext> options) : base(options) {}
     public DbSet<Todo> Todos { get; set; }
-
-    // 1 hai ba 4 5 7
+    public DbSet<User> Users { get; set; }
 }
-
-// Chao Phat Nguyen
-// Chao Tien Nam
