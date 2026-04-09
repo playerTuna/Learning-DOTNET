@@ -11,6 +11,9 @@ CREATE TABLE IF NOT EXISTS sessions (
     session_id UUID PRIMARY KEY NOT NULL DEFAULT gen_random_uuid(),
     user_id TEXT NOT NULL,
     refresh_token TEXT NOT NULL,
+    expires_at TIMESTAMP NOT NULL,
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    revoked_at TIMESTAMP,
     FOREIGN KEY (user_id) REFERENCES users(user_id)
 );
 

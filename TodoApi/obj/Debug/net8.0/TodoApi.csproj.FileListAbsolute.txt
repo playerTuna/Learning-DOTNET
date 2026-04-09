@@ -118,3 +118,6 @@ F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\DotNetEnv.dll
 F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\Sprache.dll
+F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

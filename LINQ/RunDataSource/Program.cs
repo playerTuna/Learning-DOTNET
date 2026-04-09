@@ -1,4 +1,4 @@
-namespace StandardQueryOperators;
+namespace RunDataSource;
 
 //<QueryDataSource>
 public enum GradeLevel

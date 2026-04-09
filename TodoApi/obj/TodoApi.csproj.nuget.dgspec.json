@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj": {}
+    "F:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "f:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj": {
+    "F:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "F:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "f:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj",
+        "projectPath": "F:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\votie\\.nuget\\packages\\",
-        "outputPath": "f:\\HCMUT\\Dotnet\\TodoApi\\obj\\",
+        "outputPath": "F:\\HCMUT\\Dotnet\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\votie\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,6 +50,10 @@
             "DotNetEnv": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.25, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",

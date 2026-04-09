@@ -1,8 +1,8 @@
 namespace TodoApi.Services;
-using TodoApi.Models;
-using TodoApi.Data;
+using Models;
+using Data;
 using Microsoft.EntityFrameworkCore;
-using TodoApi.Exceptions;
+using Exceptions;
 
 public class UserService
 {
@@ -34,11 +34,10 @@ public class UserService
         var existingUser = await GetUserById(userId);
         existingUser.Username = user.Username;
         existingUser.Email = user.Email;
-        if (string.IsNullOrWhiteSpace(user.Password))
+        if (!string.IsNullOrWhiteSpace(user.Password))
         {
             existingUser.Password = BCrypt.Net.BCrypt.HashPassword(user.Password);
         }
-        existingUser.Password = BCrypt.Net.BCrypt.HashPassword(user.Password);
         _context.Users.Update(existingUser);
         await _context.SaveChangesAsync();
         return existingUser;
