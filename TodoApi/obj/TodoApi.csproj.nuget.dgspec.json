@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj": {}
+    "f:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "F:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj": {
+    "f:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "f:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "F:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj",
+        "projectPath": "f:\\HCMUT\\Dotnet\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\votie\\.nuget\\packages\\",
-        "outputPath": "F:\\HCMUT\\Dotnet\\TodoApi\\obj\\",
+        "outputPath": "f:\\HCMUT\\Dotnet\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\votie\\AppData\\Roaming\\NuGet\\NuGet.Config"

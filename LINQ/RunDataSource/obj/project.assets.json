@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\HCMUT\\Dotnet\\LINQ\\RunDataSource\\RunDataSource.csproj",
+      "projectUniqueName": "f:\\HCMUT\\Dotnet\\LINQ\\RunDataSource\\RunDataSource.csproj",
       "projectName": "RunDataSource",
-      "projectPath": "F:\\HCMUT\\Dotnet\\LINQ\\RunDataSource\\RunDataSource.csproj",
+      "projectPath": "f:\\HCMUT\\Dotnet\\LINQ\\RunDataSource\\RunDataSource.csproj",
       "packagesPath": "C:\\Users\\votie\\.nuget\\packages\\",
-      "outputPath": "F:\\HCMUT\\Dotnet\\LINQ\\RunDataSource\\obj\\",
+      "outputPath": "f:\\HCMUT\\Dotnet\\LINQ\\RunDataSource\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\votie\\AppData\\Roaming\\NuGet\\NuGet.Config"
