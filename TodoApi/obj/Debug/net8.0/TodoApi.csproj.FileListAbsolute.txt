@@ -110,3 +110,11 @@ F:\HCMUT\Dotnet\TodoApi\obj\Debug\net8.0\refint\TodoApi.dll
 F:\HCMUT\Dotnet\TodoApi\obj\Debug\net8.0\TodoApi.pdb
 F:\HCMUT\Dotnet\TodoApi\obj\Debug\net8.0\TodoApi.genruntimeconfig.cache
 F:\HCMUT\Dotnet\TodoApi\obj\Debug\net8.0\ref\TodoApi.dll
+F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\DotNetEnv.dll
+F:\HCMUT\Dotnet\TodoApi\bin\Debug\net8.0\Sprache.dll

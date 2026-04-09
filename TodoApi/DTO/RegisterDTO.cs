@@ -7,6 +7,13 @@ public class RegisterRequestDTO {
     [Display(Name = "Email")]
     public string Email { get; set; } = string.Empty;
 
+    [Required(ErrorMessage = "Username is required")]
+    [MinLength(3)]
+    [MaxLength(20)]
+    [RegularExpression(@"^[a-zA-Z0-9]+$", ErrorMessage = "Username must contain only letters and numbers")]
+    [Display(Name = "Username")]
+    public string Username { get; set; } = string.Empty;
+
     [Required(ErrorMessage = "Password is required")]
     [MinLength(8)]
     [MaxLength(20)]

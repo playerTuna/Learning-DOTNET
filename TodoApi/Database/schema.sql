@@ -1,3 +1,5 @@
+CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+
 CREATE TABLE IF NOT EXISTS users (
     user_id TEXT PRIMARY KEY NOT NULL,
     username TEXT NOT NULL UNIQUE,
@@ -6,7 +8,7 @@ CREATE TABLE IF NOT EXISTS users (
 );
 
 CREATE TABLE IF NOT EXISTS sessions (
-    session_id TEXT PRIMARY KEY NOT NULL,
+    session_id UUID PRIMARY KEY NOT NULL DEFAULT gen_random_uuid(),
     user_id TEXT NOT NULL,
     refresh_token TEXT NOT NULL,
     FOREIGN KEY (user_id) REFERENCES users(user_id)
