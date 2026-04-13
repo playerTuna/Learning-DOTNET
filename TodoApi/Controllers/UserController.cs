@@ -1,8 +1,9 @@
 namespace TodoApi.Controllers;
+
 using Microsoft.AspNetCore.Mvc;
-using TodoApi.Services;
-using TodoApi.Models;
-using TodoApi.Exceptions;
+using Services;
+using Models;
+using Exceptions;
 
 [Route("api/[controller]")]
 [ApiController]
